@@ -1,0 +1,10 @@
+My netid is tianxie3
+
+I finished Tasks 1, 2, 3.1 and 4. 
+
+I failed to finish task 3.2. I attempted to do as the guidance to enumerate all f+1 points out of n and test whether the interpolated polynomial can coincide with 2f+1 points. The code logic is complicated and I started to work on it late, so I failed in this task. I did not finish the bonus tasks.
+
+I think overall Task 2 is the most interetsing, where I need to look through the provided references to learn a specific protocol to achieve the task. I think it is interesting and I learned a lot. 
+
+I think task 3 and 4 are a bit challenging. For task 4, since I am not so familiar with fft, it took me some time to learn it. For task 3, the brute-force idea is clear but the implementation is complicated. For task 4, since I am not so familiar with fft, it took me some time to learn it.
+

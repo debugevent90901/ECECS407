@@ -1,0 +1,9 @@
+ECE407 Cryptography	Machine Problem 1 Report
+
+
+
+1. My netid is tianxie3
+
+2. I finished all the TODOs in zkp-assignment.py except for the range proof. I attempted to implement the range proof, but still feel no way to start. The code I submit contains something in the range proof part, which is incomplete and will fail.
+
+3. I think zkp is an interesting part in cryptography, and I enjoy coding this mp. Except for the range proof, it is not challenging. But for range proof, I think I got professor's point in lecture, but I still don't know where to start.

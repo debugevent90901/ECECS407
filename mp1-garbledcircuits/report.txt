@@ -1,0 +1,11 @@
+ECE407 Cryptography	Machine Problem 1 Report
+
+
+
+1. My netid is tianxie3
+
+2. I finished the tasks in evaluator.py, generator.py and util.py. I attempted to do the bonus task. But I started to work on this mp a little late, and I don't have time to finish it. I feel pity for it as this mp is more interesting than I have imaged. The document and code provided is clear, so I think I understand all the materials.
+
+3. I find the protocol itself interesting because it does not rely on a centralized third authority to preserve both parties' pravicy. But I think using circuit gates to simulate computation may be inefficient, and I am wondering the performance of this protocol for some large scale computation. 
+
+4. I think this mp is not very challenging, but handling byte stream is error-prone and took me some time to debug.
