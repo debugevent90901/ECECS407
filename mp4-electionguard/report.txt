@@ -1,0 +1,5 @@
+My netid is tianxie3.
+
+I finished part1, part2 and part3.1. I attmept to finish part3.2 but failed.
+
+I think this whole machine problem is interesting as it is a simpler version of ElectionGuard, which is a real-world example. And I think this machine problem is the most challenging among the 4, which requires me to read the materials carefully.

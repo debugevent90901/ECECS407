@@ -1,0 +1,4 @@
+gmpy2==2.0.8
+cryptography>=3.4.7
+grade>=3.0.1
+tqdm>=4.61.1
